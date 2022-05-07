@@ -1,0 +1,33 @@
+body{
+    height: 150vh;
+    background: linear-gradient(135deg, rgb(176, 232, 9), rgb(233, 11, 233));
+}
+#boss{
+    position: absolute;
+    top: 40%;
+    left: 35%;
+
+}
+#low{
+    height: 40px;
+    width: 200px;
+}
+#dew{ 
+    height: 40px;
+    width: 100px;
+    background-color:rgb(231, 34, 231) ;
+}
+.lol{
+    position: relative;
+    top: 40%;
+    left: 40%;
+    font-size: 10px;
+    font-style: italic;
+}
+.fuy{
+    font-size: 10px;
+    font-style: italic;
+    position: relative;
+    left: 40%;
+    
+}
